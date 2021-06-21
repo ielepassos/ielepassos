@@ -21,3 +21,6 @@ Here are some ideas to get you started:
 - Os meus repositorios são projetos OpenSource que contribuo, projetos que faço/fiz parte, imersões/eventos que participo para me aperfeiçoar e atividades da universidade.
 
 ![Iele's github stats](https://github-readme-stats.vercel.app/api?username=ielepassos&show_icons=true&count_private=true)
+
+- 📫 Entre em contato:
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ielepassos)
