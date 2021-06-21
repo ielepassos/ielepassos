@@ -17,10 +17,19 @@ Here are some ideas to get you started:
 <img align ="right" width = "300px" src = "https://octocat-generator-assets.githubusercontent.com/my-octocat-1624237045190.png">  
 
 - Meu nome é Iele Passos e sou graduanda em Ciência da computação na UFCG.
+- Pronomes: ela/dela
 - Atualmente, estou aprendendo sobre desenvolvimento front-end.
 - Os meus repositorios são projetos OpenSource que contribuo, projetos que faço/fiz parte, imersões/eventos que participo para me aperfeiçoar e atividades da universidade.
+
+##### Comunidades👯 
+
+- Membro do [Elas@Computação](https://elas.computacao.ufcg.edu.br/)
+- Membro do [PyLadiesPB](https://github.com/pyladiespb-org)
+- Membro do CoreTeam da [OpenDevUFCG](https://opendevufcg.org/)
+- E mais um monte de comunidades hahaha
 
 ![Iele's github stats](https://github-readme-stats.vercel.app/api?username=ielepassos&show_icons=true&count_private=true)
 
 - 📫 Entre em contato:
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ielepassos)
+
