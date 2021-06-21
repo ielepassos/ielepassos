@@ -14,11 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img align ="right" width = "400px" src = "https://octocat-generator-assets.githubusercontent.com/my-octocat-1624237045190.png">  
+<img align ="right" width = "300px" src = "https://octocat-generator-assets.githubusercontent.com/my-octocat-1624237045190.png">  
 
 - Meu nome é Iele Passos e sou graduanda em Ciência da computação na UFCG.
 - Atualmente, estou aprendendo sobre desenvolvimento front-end.
 - Os meus repositorios são projetos OpenSource que contribuo, projetos que faço/fiz parte, imersões/eventos que participo para me aperfeiçoar e atividades da universidade.
-
 
 ![Iele's github stats](https://github-readme-stats.vercel.app/api?username=ielepassos&show_icons=true&count_private=true)
