@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img align ="right" width = "300px" src = "https://octocat-generator-assets.githubusercontent.com/my-octocat-1624237045190.png">  
+<img align ="right" width = "400px" src = "https://octocat-generator-assets.githubusercontent.com/my-octocat-1624237045190.png">  
 
 - Meu nome é Iele Passos e sou graduanda em Ciência da computação na UFCG.
 - Pronomes: ela/dela
@@ -32,4 +32,5 @@ Here are some ideas to get you started:
 
 - 📫 Entre em contato:
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ielepassos)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:iele.passos@ccc.ufcg.edu.br)
 
