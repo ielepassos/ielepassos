@@ -37,4 +37,6 @@ Here are some ideas to get you started:
 - 📫 Entre em contato:
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ielepassos)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:iele.passos@ccc.ufcg.edu.br)
+[![Dev.to](https://img.shields.io/badge/-DEV-000000?style=flat&logo=DEV)](https://dev.to/ielepassos)
+    
 
