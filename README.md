@@ -24,6 +24,7 @@ Here are some ideas to get you started:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 
 - Os meus repositórios são projetos OpenSource que contribuo, projetos que faço/fiz parte, imersões/eventos que participo para me aperfeiçoar, atividades da universidade e projetos pessoais.
+- fun fact: sou artesã e tenho uma [lojinha](https://www.instagram.com/amarelo.arte/?hl=pt) onde vendo algumas peças :)
 
 ##### Comunidades👯 
 
