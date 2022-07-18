@@ -28,9 +28,9 @@ Here are some ideas to get you started:
 
 ##### Comunidades👯 
 
+- Membro do CoreTeam da [OpenDevUFCG](https://opendevufcg.org/)
 - Membro do [Elas@Computação](https://elas.computacao.ufcg.edu.br/)
 - Membro do [PyLadiesPB](https://github.com/pyladiespb-org)
-- Membro do CoreTeam da [OpenDevUFCG](https://opendevufcg.org/)
 - E mais um monte de comunidades hahaha
 
 ![Iele's github stats](https://github-readme-stats.vercel.app/api?username=ielepassos&show_icons=true&count_private=true)
