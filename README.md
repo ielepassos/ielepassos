@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 <img align ="right" width = "400px" src = "https://octocat-generator-assets.githubusercontent.com/my-octocat-1624237045190.png">  
 
-- Meu nome é Iele Passos e sou graduanda em Ciência da Computação pela Universidade Federal de Campina Grande.
+- Meu nome é Iele Passos e sou graduada em Ciência da Computação pela Universidade Federal de Campina Grande.
 - Pronomes: ela/dela
-- Atualmente, estou aprendendo sobre desenvolvimento web, com foco em front-end. <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+- Atualmente, me considero cientista de dados ( mas também sou web dev) <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
