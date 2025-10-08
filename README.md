@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/pytorch/pytorch.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/tensorflow/tensorflow.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/jupyter-notebook/jupyter-notebook.png"></code>de>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/jupyter-notebook/jupyter-notebook.png"></code>
 
 - I used to work with frontend development — now I live in the wonderful (and chaotic) world of **Data Science and Artificial Intelligence**.
 
