@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 - I used to work with frontend development — now I live in the wonderful (and chaotic) world of **Data Science and Artificial Intelligence**.
 
 Most of my current projects are under NDA, so you won’t see much of my AI work here… *I promise I’m coding somewhere, just not always where GitHub can see it* 😅
-- fun fact: I’m also an artisan and run a small [handmade shop](https://www.instagram.com/amarelo.arte/?hl=pt) reativity comes in many forms :)
+- fun fact: I’m also an artisan and run a small [handmade shop](https://www.instagram.com/amarelo.arte/?hl=pt) creativity comes in many forms :)
 
 ##### Communities👯 
 
