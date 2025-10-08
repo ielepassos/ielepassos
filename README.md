@@ -16,22 +16,25 @@ Here are some ideas to get you started:
 -->
 <img align ="right" width = "400px" src = "https://octocat-generator-assets.githubusercontent.com/my-octocat-1624237045190.png">  
 
-- Meu nome é Iele Passos e sou graduada em Ciência da Computação pela Universidade Federal de Campina Grande.
-- Pronomes: ela/dela
-- Atualmente, me considero cientista de dados ( mas também sou web dev) <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+- My name is Iele Passos, and I hold a Bachelor’s degree in Computer Science from Federal University of Campina Grande (UFCG)
+- Pronouns: she/her
+- I’m currently a Data Scientist and AI Researcher/Developer.
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/pytorch/pytorch.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/tensorflow/tensorflow.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/jupyter-notebook/jupyter-notebook.png"></code>de>
 
-- Os meus repositórios são projetos open source que contribuo, projetos que faço/fiz parte, imersões/eventos que participo para me aperfeiçoar, atividades da universidade e projetos pessoais.
-- fun fact: sou artesã e tenho uma [lojinha](https://www.instagram.com/amarelo.arte/?hl=pt) onde vendo algumas peças :)
+- I used to work with frontend development — now I live in the wonderful (and chaotic) world of **Data Science and Artificial Intelligence**.
 
-##### Comunidades👯 
+Most of my current projects are under NDA, so you won’t see much of my AI work here… *I promise I’m coding somewhere, just not always where GitHub can see it* 😅
+- fun fact: I’m also an artisan and run a small [handmade shop](https://www.instagram.com/amarelo.arte/?hl=pt) reativity comes in many forms :)
 
-- Membro do CoreTeam da [OpenDevUFCG](https://opendevufcg.org/)
-- Membro do [Elas@Computação](https://elas.computacao.ufcg.edu.br/)
-- Membro do [PyLadiesPB](https://github.com/pyladiespb-org)
-- E mais um monte de comunidades hahaha
+##### Communities👯 
+
+- CoreTeam member of [OpenDevUFCG](https://opendevufcg.org/)
+- Member of [Elas@Computação](https://elas.computacao.ufcg.edu.br/)
+- Member of [PyLadiesPB](https://github.com/pyladiespb-org)
+- And a bunch of other amazing tech communities hahaha 💜
 
 ![Iele's github stats](https://github-readme-stats.vercel.app/api?username=ielepassos&show_icons=true&count_private=true)
 
